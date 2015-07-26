@@ -1,0 +1,10 @@
+{
+  "name": "tennis-annimations",
+  "version": "0.0.1",
+  "homepage": "https://github.com/ABarnhard/tennis-annimations",
+  "authors": [
+    "Adam Barnhard <adam.barnhard@digitalreasoning.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT"
+}
