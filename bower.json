@@ -8,6 +8,8 @@
   "main": "index.html",
   "license": "MIT",
   "dependencies": {
-    "jquery": "~2.1.4"
+    "jquery": "~2.1.4",
+    "pixi.js": "~3.0.7",
+    "gsap": "~1.17.0"
   }
 }
