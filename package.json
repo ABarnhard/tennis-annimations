@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ABarnhard/tennis-annimations/issues"
   },
-  "homepage": "https://github.com/ABarnhard/tennis-annimations"
+  "homepage": "https://github.com/ABarnhard/tennis-annimations",
+  "dependencies": {
+    "bower": "^1.4.1"
+  }
 }
