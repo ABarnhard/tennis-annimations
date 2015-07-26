@@ -10,6 +10,7 @@
   "dependencies": {
     "jquery": "~2.1.4",
     "pixi.js": "~3.0.7",
-    "gsap": "~1.17.0"
+    "gsap": "~1.17.0",
+    "webfontloader": "https://github.com/typekit/webfontloader.git#v1.6.5"
   }
 }
